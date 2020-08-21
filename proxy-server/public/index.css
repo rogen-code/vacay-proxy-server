@@ -6,3 +6,21 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+@media(min-width: 961px) {
+
+  #restaurantInfo {
+    margin-bottom: 50px;
+  }
+  #tips-recommendations-section {
+    position: relative;
+    bottom: 800px;
+    left: 14%;
+  }
+
+  #similar-restaurants-grid {
+    position: relative;
+    bottom: 1150px;
+  }
+}
+
