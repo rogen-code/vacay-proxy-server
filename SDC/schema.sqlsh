@@ -1,6 +1,0 @@
-CREATE TABLE residence (
-id text PRIMARY KEY,
-residenceName text,
-point 'PointType',
-imageurl 'text',
-)
